@@ -1,0 +1,3 @@
+# Merging & Stitching Source Code
+
+Everything and anything involving the fusion of images to produce an output image. E.g., wiener filtering, PMAPs, MLEs, ...
